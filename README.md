@@ -30,9 +30,9 @@ My comfort zone is **Python and Flutter**, but my favourite place to be is sligh
 
 ## 📫 Find me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/profilesouravkumar/) — best place to say hi
+- 💼 [LinkedIn](https://www.linkedin.com/in/profilesouravkumar/) 
 - 🧠 [LeetCode](https://leetcode.com/u/sourav_leet_code/)
-- 🐙 Right here on [GitHub](https://github.com/developwithsourav)
+- 🐙 [GitHub](https://github.com/developwithsourav)
 
 ---
 
