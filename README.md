@@ -22,16 +22,11 @@ My comfort zone is **Python and Flutter**, but my favourite place to be is sligh
 - **Open-source projects** that are friendly to first-time contributors (been there, want to help others past it)
 - **Hackathon teams** — I bring shipping energy and a working CI pipeline
 
-## 💬 Ask me about
+## 🛠️ Skills & Tools
 
-- Setting up **CI/CD from scratch** (Azure DevOps, parallel jobs, Firebase App Distribution)
-- **Flutter testing** — unit tests with mocktail, E2E with Patrol
-- Integrating **Indian public digital infrastructure** APIs (Bhashini, ULI)
-- Landing **internships as a student** — three down, happy to share what worked
-
-## 🛠️ Tools I reach for
-
-`Python` `C++` `JavaScript` `Dart` `SQL` · `Flutter` `REST APIs` · `Azure DevOps` `Firebase` `CI/CD` · `Pandas` `NumPy` `MySQL` · `Git` `Postman` `Claude Code`
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,dart,mysql,flutter,html,css,firebase,azure,git,github,postman,androidstudio" alt="Python, C++, JavaScript, Dart, MySQL, Flutter, HTML, CSS, Firebase, Azure, Git, GitHub, Postman, Android Studio" />
+</p>
 
 ## 📫 Find me
 
