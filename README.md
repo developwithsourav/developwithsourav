@@ -7,7 +7,7 @@ My comfort zone is **Python, C++,Js and Flutter**, but my favourite place to be 
 ---
 ## 🔭 What I'm up to
 
-- 🔨 **Building:** a smart lock system for low-cost devices (C++ / Python / Flutter) — affordable security shouldn't be a premium feature
+- 🔨 **Building:** AEGIS, an AI emergency command platform for mass gatherings (FastAPI / PyTorch / Next.js) — crowd crushes kill in minutes, dispatch shouldn't take longer
 - 🏆 **Hacking:** prepping a project for an upcoming hackathon (finalist at *Built with India*, aiming higher this time)
 - 📚 **Learning:** AI/ML engineering — going deep on the fundamentals, not just the APIs
 - 🧩 **Practicing:** daily problem solving on [LeetCode](https://leetcode.com/u/sourav_leet_code/)
