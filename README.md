@@ -4,10 +4,6 @@ Most recently, I interned at the **Reserve Bank Innovation Hub** (RBI's innovati
 
 My comfort zone is **Python and Flutter**, but my favourite place to be is slightly outside it.
 
-## 🟩 My year in green
-
-[![Sourav's GitHub contribution graph](https://ghchart.rshah.org/developwithsourav)](https://github.com/developwithsourav)
-
 ---
 ## 🔭 What I'm up to
 
