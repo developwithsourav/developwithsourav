@@ -5,7 +5,6 @@ Most recently, I interned at the **Reserve Bank Innovation Hub** (RBI's innovati
 My comfort zone is **Python and Flutter**, but my favourite place to be is slightly outside it.
 
 ---
-
 ## 🔭 What I'm up to
 
 - 🔨 **Building:** a smart lock system for low-cost devices (C++ / Python / Flutter) — affordable security shouldn't be a premium feature
@@ -26,12 +25,5 @@ My comfort zone is **Python and Flutter**, but my favourite place to be is sligh
   <img src="https://skillicons.dev/icons?i=python,cpp,js,dart,mysql,flutter,html,css,firebase,azure,git,github,postman,androidstudio" alt="Python, C++, JavaScript, Dart, MySQL, Flutter, HTML, CSS, Firebase, Azure, Git, GitHub, Postman, Android Studio" />
 </p>
 
-## 📫 Find me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/profilesouravkumar/) 
-- 🧠 [LeetCode](https://leetcode.com/u/sourav_leet_code/)
-- 🐙 [GitHub](https://github.com/developwithsourav)
-
 ---
-
 ⚡ **Fun fact:** I've shipped code for a central bank, a gaming network, and a robotics project — and I'm still an undergrad. Also: General Secretary of my college's Eco Club, because sustainable code and a sustainable planet both need maintainers. 🌱
