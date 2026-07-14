@@ -1,5 +1,3 @@
-# Hi, I'm Sourav Kumar 👋
-
 **Software developer & final-year CS undergrad at the University of Delhi** — I like building software that survives contact with real users.
 
 Most recently, I interned at the **Reserve Bank Innovation Hub** (RBI's innovation subsidiary), where I built CI/CD pipelines, automated testing, and a multilingual translation pipeline for **ULI** — India's national digital-lending platform. Before that: Web3 gaming analytics at KGEN and Python development at YBI Foundation.
