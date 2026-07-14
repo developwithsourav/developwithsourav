@@ -2,7 +2,7 @@
 
 Most recently, I interned at the **Reserve Bank Innovation Hub** (RBI's innovation subsidiary), where I built CI/CD pipelines, automated testing, and a multilingual translation pipeline for **ULI** — India's national digital-lending platform. Before that: Web3 gaming analytics at KGEN and Python development at YBI Foundation.
 
-My comfort zone is **Python and Flutter**, but my favourite place to be is slightly outside it.
+My comfort zone is **Python, C++,Js and Flutter**, but my favourite place to be is slightly outside it.
 
 ---
 ## 🔭 What I'm up to
