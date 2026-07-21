@@ -2,14 +2,13 @@
 
 Most recently, I interned at the **Reserve Bank Innovation Hub** (RBI's innovation subsidiary), where I built CI/CD pipelines, automated testing, and a multilingual translation pipeline for **ULI** — India's national digital-lending platform. Before that: Web3 gaming analytics at KGEN and Python development at YBI Foundation.
 
-My comfort zone is **Python, C++,Js and Flutter**, but my favourite place to be is slightly outside it.
-
+My comfort zone is **Python, C++, Js and Flutter**
 ---
 ## 🔭 What I'm up to
 
 - 🔨 **Building:** AEGIS, an AI emergency command platform for mass gatherings (FastAPI / PyTorch / Next.js) — crowd crushes kill in minutes, dispatch shouldn't take longer
 - 🏆 **Hacking:** prepping a project for an upcoming hackathon (finalist at *Built with India*, aiming higher this time)
-- 📚 **Learning:** AI/ML engineering — going deep on the fundamentals, not just the APIs
+- 📚 **Learning:** AI/ML engineering — going deep on the fundamentals.
 - 🧩 **Practicing:** daily problem solving on [LeetCode](https://leetcode.com/u/sourav_leet_code/)
 
 ## 🤝 What I'd love to collaborate on
