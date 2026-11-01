@@ -6,9 +6,9 @@
   </picture>
 </a>
 
-I'm a final-year Computer Science student at the University of Delhi, living in New Delhi. I build backend systems and data tools in Python, and I'm working towards AI engineering. I mostly use FastAPI and PostgreSQL, Flutter for mobile, and GitHub Actions or Azure DevOps to ship. I check the data before I trust a chart. My weather project is why: its first version plotted humidity and pressure that turned out to be random numbers.
+I'm a final-year Computer Science student at the University of Delhi, living in New Delhi. I build backend systems and data tools in Python, and I'm working towards AI engineering. I mostly use FastAPI and PostgreSQL, Flutter for mobile, and GitHub Actions or Azure DevOps to ship.
 
-Start with [Five Years of Indian Weather](https://github.com/developwithsourav/Weather-Data-Visualization) and its [report](https://developwithsourav.github.io/Weather-Data-Visualization/), or [ReproBot](https://github.com/developwithsourav/reprobot), which turns a GitHub issue into a script that reproduces the bug.
+Start with [ReproBot](https://github.com/developwithsourav/reprobot), which turns a GitHub issue into a script that reproduces the bug.
 
 ## What I work with
 
