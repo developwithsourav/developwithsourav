@@ -1,10 +1,4 @@
-<a href="https://developwithsourav.github.io">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-    <img alt="Sourav Kumar. I build software for the moments it can't afford to fail. Backend and data, New Delhi." src="assets/header-light.svg" width="100%">
-  </picture>
-</a>
+
 
 I'm a final-year Computer Science student at the University of Delhi, living in New Delhi. I build backend systems and data tools in Python, and I'm working towards AI engineering. I mostly use FastAPI and PostgreSQL, Flutter for mobile, and GitHub Actions or Azure DevOps to ship.
 
