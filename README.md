@@ -10,5 +10,3 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch%2Ctensorflow%2Csklearn%2Cdocker&theme=dark">
   <img alt="PyTorch, TensorFlow, scikit-learn, Docker" src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,docker&theme=light">
 </picture>
-
-AI engineering: LLM apps with retrieval (RAG), embeddings and vector search with pgvector, fine-tuning with Hugging Face Transformers, LangChain and the OpenAI API, local models with Ollama, and testing model quality before anything ships.
