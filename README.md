@@ -27,17 +27,11 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub & LeetCode Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=developwithsourav&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=developwithsourav&theme=dark&hide_border=true" height="165"/>
-</p>
-
-### 🧩 LeetCode Stats
-
-<p align="left">
-  <img src="https://leetcard.jacoblin.cool/sourav_leet_code?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/sourav_leet_code?user=developwithsourav&theme=dark&hide_border=true" height="165"/>
 </p>
 
 ---
