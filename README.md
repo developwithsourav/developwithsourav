@@ -1,7 +1,4 @@
 **AI Software Engineer · Python & Flutter · Building reliable software for real users.**
-
-I've shipped production features at the **Reserve Bank Innovation Hub**(RBI's innovation subsidiary) where I built CI/CD pipelines, automated testing frameworks, and multilingual API integrations for India's **Unified Lending Interface (ULI)**, the central bank's flagship digital-lending platform. Three internships in, hackathon finalist, and still in builder mode.
-
 ---
 
 ### 🛠️ Tech Stack
@@ -33,7 +30,8 @@ I've shipped production features at the **Reserve Bank Innovation Hub**(RBI's in
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=developwithsourav&theme=dark&hide_border=true" alt="Sourav's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=developwithsourav&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=developwithsourav&theme=dark&hide_border=true" height="165"/>
 </p>
 
 ### 🧩 LeetCode Stats
