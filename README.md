@@ -1,6 +1,6 @@
 **AI Software Engineer · Python & Flutter · Building reliable software for real users.**
 
-I've shipped production features at the **Reserve Bank Innovation Hub**(RBI's innovation subsidiary) where I built CI/CD pipelines, automated testing frameworks, and multilingual API integrations for India's **Unified Lending Interface (ULI)**, the central bank's flagship digital-lending platform. Also been a hackathon finalist, and still in builder mode.
+I've shipped production features at the **Reserve Bank Innovation Hub**(RBI's innovation subsidiary) where I built CI/CD pipelines, automated testing frameworks, and multilingual API integrations for India's **Unified Lending Interface (ULI)**, the central bank's flagship digital-lending platform. Three internships in, hackathon finalist, and still in builder mode.
 
 ---
 
@@ -41,8 +41,10 @@ I've shipped production features at the **Reserve Bank Innovation Hub**(RBI's in
 <p align="left">
   <img src="https://leetcard.jacoblin.cool/sourav_leet_code?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats"/>
 </p>
+
 ---
 
 ### 🤝 Let's connect
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/profilesouravkumar/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/sourav_leet_code)
