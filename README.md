@@ -4,13 +4,6 @@ I've shipped production features at the **Reserve Bank Innovation Hub**(RBI's in
 
 ---
 
-### 🔭 What I'm working on
-
-- 🤖 **[reprobot](https://github.com/developwithsourav/reprobot)** — Paste a GitHub issue URL, get a verified script that reproduces the bug. Agent clones, writes, executes in a sandbox, and iterates.
-- 🌦️ **[Weather Data Visualization](https://github.com/developwithsourav/Weather-Data-Visualization)** — Python pipeline analyzing 5 years of daily weather across 30 Indian cities. Validates data, catches anomalies, and benchmarks against IMD records.
-
----
-
 ### 🛠️ Tech Stack
 
 **Working with:**
@@ -40,10 +33,14 @@ I've shipped production features at the **Reserve Bank Innovation Hub**(RBI's in
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=developwithsourav&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Sourav's GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developwithsourav&layout=compact&hide_border=true&theme=default" alt="Top Languages" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=developwithsourav&theme=dark&hide_border=true" alt="Sourav's GitHub Stats"/>
 </p>
 
+### 🧩 LeetCode Stats
+
+<p align="left">
+  <img src="https://leetcard.jacoblin.cool/sourav_leet_code?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats"/>
+</p>
 ---
 
 ### 🤝 Let's connect
