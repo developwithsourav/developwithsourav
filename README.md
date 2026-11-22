@@ -1,5 +1,3 @@
-# Hi, I'm Sourav Kumar 👋
-
 **AI Software Engineer · Python & Flutter · Building reliable software for real users.**
 
 I've shipped production features at the **Reserve Bank Innovation Hub**(RBI's innovation subsidiary) where I built CI/CD pipelines, automated testing frameworks, and multilingual API integrations for India's **Unified Lending Interface (ULI)**, the central bank's flagship digital-lending platform. Also been a hackathon finalist, and still in builder mode.
