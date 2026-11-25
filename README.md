@@ -35,8 +35,3 @@
 </p>
 
 ---
-
-### 🤝 Let's connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/profilesouravkumar/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/sourav_leet_code)
